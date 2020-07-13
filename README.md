@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Golang and Kotlin
 - 👯 I’m looking to collaborate on social impact projects
 - 💬 Ask me about Python, Design patterns and meditation
+- :heart: Things I deeply care about: software architecture, design patterns and customers
 - 📫 How to reach me: [Email](aciolyr@gmail.com)
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelacioly/)
