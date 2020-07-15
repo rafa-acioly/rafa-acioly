@@ -1,7 +1,7 @@
 # Hey, I'm Rafael Acioly 👋
 ## I'm a Back-end Developer based in Brazil working at [Magazine Luiza](http://magazineluiza.com.br/).
 
-- 🔭 I’m currently working on building the best retail commerce on Brazil
+- :book: Degree in Information Systems
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.vue`, `.sql`
 - 🌱 I’m currently learning Golang and Kotlin
 - 👯 I’m looking to collaborate on social impact projects
