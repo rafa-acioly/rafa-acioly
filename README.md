@@ -1,5 +1,5 @@
 # Hey, I'm Rafael Acioly 👋
-## I'm a Back-end Developer based in Brazil working at [Magazine Luiza](http://magazineluiza.com.br/).
+## I'm a Back-end Developer based in Brazil
 
 - :book: Degree in Information Systems
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.vue`, `.sql`
