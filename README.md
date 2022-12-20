@@ -2,7 +2,7 @@
 ## I'm a Back-end Developer based in Brazil
 
 - :book: Degree in Information Systems
-- ⚙️ I use daily: `.sc`, `.kt`, `.go`, `.vue`, `.sql`
+- ⚙️ I use daily: `.groovy`, `.kt`, `.ts`, `.sql`
 - 🌱 I’m currently learning Golang and Kotlin
 - 👯 I’m looking to collaborate on social impact projects
 - 💬 Ask me about Python, Design patterns and meditation
